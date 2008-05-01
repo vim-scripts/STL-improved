@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2224
+
+It's based on this syntax file :
+http://www.vim.org/scripts/script.php?script_id=1640
+
+I separated types and methods, and also added some missing things.
+
